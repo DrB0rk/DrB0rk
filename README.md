@@ -16,6 +16,7 @@ i like tinkering with electronics, wasting time debugging code and riding my mot
 * My instagram      --> [here](https://www.instagram.com/drb0rk/)
 * My website        --> [here](https://berkderooij.nl)
 * Instagram         --> [here](https://instagram.com/drb0rk)
+* join my discord         --> [here](https://discord.gg/AVAeRuQTN2)
 
 ### My stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrB0rk&show_icons=true&theme=dark)
