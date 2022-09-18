@@ -15,7 +15,6 @@ i like tinkering with electronics, wasting time debugging code and riding my mot
 * My store   --> [here](https://www.bork-electronics.com)
 * My instagram      --> [here](https://www.instagram.com/drb0rk/)
 * My website        --> [here](https://berkderooij.nl)
-* Instagram         --> [here](https://instagram.com/drb0rk)
 * join my discord         --> [here](https://discord.gg/AVAeRuQTN2)
 
 ### My stats:
