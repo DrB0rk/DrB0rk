@@ -17,6 +17,8 @@ i like tinkering with electronics, wasting time debugging code and riding my mot
 * My website        --> [here](https://berkderooij.nl)
 * join my discord         --> [here](https://discord.gg/AVAeRuQTN2)
 
+### If you like my work, buy me a coffee [here](https://www.paypal.com/donate/?hosted_button_id=44CB2JYYJHBUY) :)
+
 ### My stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrB0rk&show_icons=true&theme=dark)
 
