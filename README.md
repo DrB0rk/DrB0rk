@@ -12,7 +12,7 @@ i like tinkering with electronics, wasting time debugging code and riding my mot
 # Links
 ## Here you can find all my links:
 
-* My store   --> [here](https://www.borkelectronics.com)
+* My store   --> [here](https://www.borklab.com)
 * My instagram      --> [here](https://www.instagram.com/drb0rk/)
 * My website        --> [here](https://berkderooij.nl)
 * join my discord         --> [here](https://discord.gg/AVAeRuQTN2)
