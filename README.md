@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Im Berk, 20 years old and currently a second year IT: Cyber security student at the Amsterdam university of applied sciences.
+Im Berk, 22 years old and currently a second year IT: Cyber security student at the Amsterdam university of applied sciences.
 
 ## About me:
 
@@ -12,9 +12,8 @@ i like tinkering with electronics, wasting time debugging code and riding my mot
 # Links
 ## Here you can find all my links:
 
-* My store   --> [here](https://www.borklab.com)
+* My store   --> [here](https://www.borkelectronics.com)
 * My instagram      --> [here](https://www.instagram.com/drb0rk/)
-* My website        --> [here](https://berkderooij.nl)
 * join my discord         --> [here](https://discord.gg/AVAeRuQTN2)
 
 ### If you like my work, buy me a coffee [here](https://www.paypal.com/donate/?hosted_button_id=44CB2JYYJHBUY) :)
