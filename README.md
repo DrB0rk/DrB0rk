@@ -1,20 +1,22 @@
 ## Hi there 👋
 
-Im Berk, 22 years old and currently a second year IT: Cyber security student at the Amsterdam university of applied sciences.
+Im Berk, 23 years old and currently an IT: Cyber security student at the Inholland university of applied sciences.
 
 ## About me:
 
 i like tinkering with electronics, wasting time debugging code and riding my motorcycle.
 
-- 🔭 I’m currently working on add-on boards for the flipper zero
+- 🔭 I’m currently working on small personal projects
 - 🌱 I’m currently still learning everything
 
+<!--
 # Links
 ## Here you can find all my links:
 
-* My store   --> [here](https://www.borkelectronics.com)
-* My instagram      --> [here](https://www.instagram.com/drb0rk/)
-* join my discord         --> [here](https://discord.gg/AVAeRuQTN2)
+* My store   -> [here](https://www.borkelectronics.com)
+* My instagram      -> [here](https://www.instagram.com/drb0rk/)
+* join my discord         -> [here](https://discord.gg/AVAeRuQTN2)
+-->
 
 ### If you like my work, buy me a coffee [here](https://www.paypal.com/donate/?hosted_button_id=44CB2JYYJHBUY) :)
 
