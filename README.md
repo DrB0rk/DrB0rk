@@ -23,7 +23,6 @@ i like tinkering with electronics, wasting time debugging code and riding my mot
 ### My stats:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrB0rk&show_icons=true&theme=dark)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/260679460674732033)](https://discord.com/users/260679460674732033)
 
 <!--
 **DrB0rk/DrB0rk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
