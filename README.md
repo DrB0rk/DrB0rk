@@ -9,6 +9,7 @@ i like tinkering with electronics, wasting time debugging code and riding my mot
 - 🔭 I’m currently working on small personal projects
 - 🌱 I’m currently still learning everything
 
+* Check out my LinkedIn!       -> [here](https://www.linkedin.com/in/berkr/)
 <!--
 # Links
 ## Here you can find all my links:
