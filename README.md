@@ -1,59 +1,56 @@
-## Hi there 👋
+# Hi, I'm Berk 👋
 
-Im Berk, 24 years old and currently an IT: Cyber security student at the Inholland university of applied sciences.
+I'm Berk, a cybersecurity student at [Inholland University of Applied Sciences](https://www.inholland.nl/) in Amsterdam. I like building things that live at the intersection of software, hardware, and security — especially when an ESP32, a Raspberry Pi, or a Docker container is involved.
 
-## About me:
+I spend most of my time exploring embedded systems, local-first software, developer tooling, and practical security projects. I also ride motorcycles and enjoy projects that mix electronics, video, and creative work.
 
-I’m a cybersecurity student in Amsterdam who spends way too much time building and breaking tech. Most days I’m tinkering with Raspberry Pi’s, ESP32 boards, or Docker containers, sometimes for self-hosting, sometimes just because it’s fun to watch things crash. I like building random tools like USB attack detectors or ESP32 gadgets that have no business existing, but hey, they work (most of the time).
+## What I'm working on
 
-My ADHD makes sure I’m always juggling five projects at once: debugging code that broke for no reason, soldering something shiny I just thought of, and forgetting what I was supposed to finish in the first place. When I’m not chasing the next distraction, I’m probably on my motorcycle or messing with creative projects that mash electronics, video, and art together. Basically, if it beeps, blinks, or breaks, I’m into it.
+- Building cross-agent developer tooling and project memory with [openwolf](https://github.com/DrB0rk/openwolf)
+- Tuning my Linux desktop workflow with [mango-bounded-niri](https://github.com/DrB0rk/mango-bounded-niri)
+- Creating local-first and embedded products with [PolderLabs](https://github.com/PolderLabsVOF)
+- Learning more about C++, TypeScript, ESP32 development, and secure system design
 
-### My interests:
-- Cybersecurity
-- ESP32 based development
-- Backend development
+## Selected personal projects
 
-### My current hyperfixations: 
-- 🔭 I’m currently working on personal projects like a product locator for a store and a task manager thats connected to a receipt printer
-- 🌱 I’m currently learning C++ and Typescript
+| Project | What it is |
+| --- | --- |
+| [openwolf](https://github.com/DrB0rk/openwolf) | Portable project memory for Claude Code, Codex, and OpenCode, with local-only I/O and token accounting. |
+| [mango-bounded-niri](https://github.com/DrB0rk/mango-bounded-niri) | A bounded-scrolling Mango configuration for the Niri window manager. |
+| [studio-essentials](https://github.com/DrB0rk/studio-essentials) | Studio Satellite iOS app, firmware, installers, and questionnaires. |
+| [bizar-companion](https://github.com/DrB0rk/bizar-companion) | An Expo Android companion app for the Bizar dashboard, paired through QR codes. |
+| [ESP32Marauder-s3-test](https://github.com/DrB0rk/ESP32Marauder-s3-test) | Wi-Fi and Bluetooth offensive/defensive tooling for ESP32. |
+| [Flipper-Zero-Boards](https://github.com/DrB0rk/Flipper-Zero-Boards) | Custom hardware boards designed for the Flipper Zero. |
 
-### 👯 I’m looking to collaborate on
-- ESP32 or embedded (security) projects  
-- Weird self-hosted tools nobody asked for but everyone ends up using
+## PolderLabs projects
 
-### 🛠️ Tools I often ~~break~~ use
-- ESP-IDF / PlatformIO
-- Docker / Proxmox  
-- Python, C++, Typescript  
-- Soldering iron + too much coffee  
+I contribute to and build public projects in the [PolderLabsVOF](https://github.com/PolderLabsVOF) organization:
 
-### 📫 How to reach me
-* Check out my LinkedIn!        -> [here](https://www.linkedin.com/in/berkr/)
-* Check out my personal site (needs updating lol)    -> [here](https://www.berkderooij.nl/)
-<!--
-# Links
-## Here you can find all my links:
+- [TimeTone](https://github.com/PolderLabsVOF/TimeTone) — an offline-first ESP32 CYD office time clock with an LVGL interface and Next.js dashboard.
+- [BizarHarness](https://github.com/PolderLabsVOF/BizarHarness) — a guarded multi-agent harness for Claude Code, with planning, isolated worktrees, and evidence-led verification.
+- [oflow](https://github.com/PolderLabsVOF/oflow) — focused agent context from GitLab planning data, with explicit gates for remote changes.
+- [openkan](https://github.com/PolderLabsVOF/openkan) — a local-first MDX kanban with a native Claude Code control plane.
+- [ppexchanger](https://github.com/PolderLabsVOF/ppexchanger) — a fully local LAN peer-to-peer encrypted terminal messenger written in Rust.
+- [CaddyUI](https://github.com/PolderLabsVOF/CaddyUI) — a one-command deployable UI for managing Caddy configuration.
 
-* My store   -> [here](https://www.borkelectronics.com)
-* My instagram      -> [here](https://www.instagram.com/drb0rk/)
-* join my discord         -> [here](https://discord.gg/AVAeRuQTN2)
--->
+## GitHub activity
 
-### My stats:
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrB0rk&show_icons=true&theme=dark)
+As of **18 September 2026**, my contribution graph shows **2,051 contributions** this year, including **1,182 commits**, **40 pull requests**, and **4 issues** across **12 repositories**.
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DrB0rk&show_icons=true&theme=transparent&hide_border=true" alt="Berk's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrB0rk&layout=compact&theme=transparent&hide_border=true" alt="Most used languages" />
+</p>
 
-<!--
-**DrB0rk/DrB0rk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tools I use
 
-Here are some ideas to get you started:
+- **Languages:** C, C++, Python, TypeScript, JavaScript, Rust
+- **Embedded:** ESP-IDF, PlatformIO, LVGL, ESP32, Raspberry Pi
+- **Infrastructure:** Docker, Proxmox, Linux, self-hosting
+- **Other:** GitHub, soldering iron, too much coffee
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Find me elsewhere
+
+- [Personal site](https://berkderooij.nl/)
+- [LinkedIn](https://www.linkedin.com/in/berkr/)
+- [GitHub](https://github.com/DrB0rk)
