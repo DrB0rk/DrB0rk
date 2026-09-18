@@ -38,16 +38,11 @@ I contribute to and build public projects in the [PolderLabsVOF](https://github.
 As of **18 September 2026**, my contribution graph shows **2,051 contributions** this year, including **1,182 commits**, **40 pull requests**, and **4 issues** across **12 repositories**.
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DrB0rk&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Berk's GitHub stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrB0rk&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Berk's most used languages" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DrB0rk&theme=github_dark" alt="GitHub activity and profile summary" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/DrB0rk"><img src="https://github-readme-activity-graph.vercel.app/graph?username=DrB0rk&theme=tokyo-night&area=true&hide_border=true&custom_title=Recent%20GitHub%20activity" alt="Recent GitHub activity graph" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/DrB0rk"><img src="https://github-profile-trophy.vercel.app/?username=DrB0rk&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" alt="GitHub profile trophies" /></a>
+  <img src="https://streak-stats.demolab.com?user=DrB0rk&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub contribution streak" />
 </p>
 
 ## Tools I use
@@ -67,4 +62,4 @@ As of **18 September 2026**, my contribution graph shows **2,051 contributions**
 - [LinkedIn](https://www.linkedin.com/in/berkr/)
 - [GitHub](https://github.com/DrB0rk)
 
-<!-- Dynamic widgets rely on github-readme-stats, github-readme-activity-graph, github-profile-trophy, and skillicons.dev. -->
+<!-- Dynamic widgets rely on github-profile-summary-cards, streak-stats.demolab.com, and skillicons.dev. -->
